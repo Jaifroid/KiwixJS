@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-13T16:21:46.825</Modified>
+      <Modified>2017-06-13T17:11:05.972</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\winrtrefs\winrt2ts.rsp">
       <PackagePath>bld\Debug\winrtrefs\winrt2ts.rsp</PackagePath>
-      <Modified>2017-06-13T16:21:40.902</Modified>
+      <Modified>2017-06-13T17:10:59.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\css\app.css">
       <PackagePath>css\app.css</PackagePath>

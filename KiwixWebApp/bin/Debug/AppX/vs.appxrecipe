@@ -20,19 +20,19 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>07B3D5A65A7A9DD111CDD19301BF2D89B52A188C9D658E8E5B76F3D8730C6996</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>a1a5e0b9-13d4-41fb-810d-518949f03df4_1.0.0.0_neutral__zfxmafgedzx24</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>EEAF51B44A4020BE1C335E7D0D650E3E62A9494767BD0621129AB405AE93B40F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a1a5e0b9-13d4-41fb-810d-518949f03df4_0.1.0.0_neutral__zfxmafgedzx24</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a1a5e0b9-13d4-41fb-810d-518949f03df4_zfxmafgedzx24!App</RegisteredUserModeAppID>
     <RegisteredPackageID>a1a5e0b9-13d4-41fb-810d-518949f03df4</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=geoff</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>0.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-13T17:11:05.972</Modified>
+      <Modified>2017-06-13T17:45:18.809</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\winrtrefs\winrt2ts.rsp">
       <PackagePath>bld\Debug\winrtrefs\winrt2ts.rsp</PackagePath>
-      <Modified>2017-06-13T17:10:59.827</Modified>
+      <Modified>2017-06-13T17:45:13.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\css\app.css">
       <PackagePath>css\app.css</PackagePath>
@@ -421,7 +421,7 @@
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-13T09:11:23.364</Modified>
+      <Modified>2017-06-13T17:45:18.653</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

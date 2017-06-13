@@ -1,0 +1,32 @@
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bin\Debug\ReverseMap\resources.pri
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bin\Debug\AppxManifest.xml
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bin\Debug\KiwixWebApp.build.appxrecipe
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\ResourceHandlingTask.state
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\priconfig.xml
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\layout.resfiles
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\resources.resfiles
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\pri.resfiles
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\qualifiers.txt
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\geoff\documents\visual studio 2017\Projects\KiwixWebApp\KiwixWebApp\bld\Debug\ProjectArchitectures.txt
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\ReverseMap\resources.pri
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\AppxManifest.xml
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\KiwixWebApp.build.appxrecipe
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\ResourceHandlingTask.state
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\priconfig.xml
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\layout.resfiles
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\resources.resfiles
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\pri.resfiles
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\qualifiers.txt
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\ProjectArchitectures.txt

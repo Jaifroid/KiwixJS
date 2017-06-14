@@ -65,8 +65,6 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="A\dummyArticle.html" />
-    <Content Include="bld\Debug\winrtrefs\winrt2ts.rsp" />
-    <TypeScriptCompile Include="bld\Debug\winrtrefs\winrtrefs.d.ts" />
     <Content Include="css\app.css" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap.css" />
@@ -1229,10 +1227,10 @@
     <None Include="KiwixWebApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="bin\Debug\" />
+    <Service Include="{4a0dddb5-7a95-4fbf-97cc-616d07737a77}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{4a0dddb5-7a95-4fbf-97cc-616d07737a77}" />
+    <Folder Include="bin\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />

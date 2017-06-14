@@ -10,12 +10,15 @@ It is primarily intended for Windows Mobile, but if possible I aim to make it av
 Store App which will run on any Windows 10 platform: x86, x64, ARM.
 
 If you would like to test the current build on your Windows Phone running Windows 10 Mobile, download
-the .appxbundle under KiwixWebApp/AppPackages/KiwixWebApp_0.1.1.0_Debug_Test/ and save it in your
+the .appxbundle under KiwixWebApp/AppPackages/KiwixWebApp_0.1.2.0_Test/ and save it in your
 downloads folder, or other accessible folder, on the phone. Enable Developer mode on your phone
 (Settings / Updates and security / For developers). Open the File Explorer on the phone, navigate
 to the downloads folder and tap the KiwixWebApp bundle. You will be asked if you wish to install.
 
-Installation on a Windows 10 PC is currently blocked due to lack of a trusted certificate.
+Installation on a Windows 10 PC involves sideloading with the PowerShell script. Download the full 
+KiwixWebApp/AppPackages/KiwixWebApp_0.1.2.0_Test/ folder to your PC. Turn on Developer mode (Settings /
+Update and security / For developers). Right-click Add-AppDevPackage.ps1 inside the folder and run with
+PowerShell. You may be prompted for a developer's certificate.
 
 The authors of the HTML5 app for Kiwix did all the work. Their source code runs almost "as is" on
 the UWP platform. This initial port is by Geoffrey Kantaris. If you need to, you can contact me at

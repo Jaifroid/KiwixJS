@@ -5,9 +5,10 @@ This is a port of the Kiwix Offline Wikipedia (and other Wikis) reader for UWP o
 It enables offline reading of a ZIM file downloaded from the Kiwix repository, including full
 Wikipedia versions with or without images in many different languages.
 
-This is a simple port of the HTML5 web app provided by Kiwix here: https://github.com/kiwix/
-It is primarily intended for Windows Mobile, but if possible I aim to make it available as a UWP
-Store App which will run on any Windows 10 platform: x86, x64, ARM.
+This is a simple port of the HTML5 web app provided by Kiwix here: https://github.com/kiwix/.
+It is primarily intended for Windows Mobile. It will run on any Windows 10 platform as a store
+app, but if you are using a standard PC, you would be better off using the full Kiwix for Windows
+here: http://www.kiwix.org/downloads/.
 
 If you would like to test the current build on a Windows Mobile device running Windows 10 Mobile,
 download the .appxbundle under KiwixWebApp/AppPackages/KiwixWebApp_0.x.x.x_Test/ and save it in your

@@ -1,4 +1,3 @@
-C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\ReverseMap\resources.pri
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\AppxManifest.xml
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\KiwixWebApp.build.appxrecipe
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\ResourceHandlingTask.state
@@ -14,3 +13,4 @@ C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\qualifiers.txt
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\qualifiers.txt.intermediate
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Debug\ProjectArchitectures.txt
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Debug\resources.pri

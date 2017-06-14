@@ -1,4 +1,4 @@
-/**
+﻿/**
  * zimArchive.js: Support for archives in ZIM format.
  *
  * Copyright 2015 Mossroy and contributors

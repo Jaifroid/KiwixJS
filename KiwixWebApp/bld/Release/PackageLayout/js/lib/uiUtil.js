@@ -1,4 +1,4 @@
-/**
+﻿/**
  * uiUtil.js : Utility functions for the User Interface
  * 
  * Copyright 2013-2014 Mossroy and contributors

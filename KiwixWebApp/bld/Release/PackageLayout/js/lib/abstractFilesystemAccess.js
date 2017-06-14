@@ -1,4 +1,4 @@
-/**
+﻿/**
  * abstractFilesystemAccess.js: Abstraction layer for file access.
  * This is currently only implemented for FirefoxOS, but could be extended to
  * Cordova, Electron or other ways to directly browse and read files from the

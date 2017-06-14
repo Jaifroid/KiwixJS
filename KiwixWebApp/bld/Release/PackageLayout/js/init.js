@@ -1,4 +1,4 @@
-/**
+﻿/**
  * init.js : Configuration for the library require.js
  * This file handles the dependencies between javascript libraries
  * 

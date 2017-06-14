@@ -1,4 +1,4 @@
-/**
+﻿/**
  * utf8.js : UTF8 conversion functions
  * Original code from http://stackoverflow.com/users/553542/kadm , taken from
  * http://stackoverflow.com/questions/1240408/reading-bytes-from-a-javascript-string

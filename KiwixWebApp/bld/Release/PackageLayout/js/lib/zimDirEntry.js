@@ -1,4 +1,4 @@
-/**
+﻿/**
  * zimDirEntry.js: Container to hold data of a ZIM directory entry.
  *
  * Copyright 2015 Mossroy and contributors

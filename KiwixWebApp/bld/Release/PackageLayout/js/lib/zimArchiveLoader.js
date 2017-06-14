@@ -1,4 +1,4 @@
-/**
+﻿/**
  * zimArchiveLoader.js: Functions to search and read ZIM archives.
  *
  * Copyright 2015 Mossroy and contributors

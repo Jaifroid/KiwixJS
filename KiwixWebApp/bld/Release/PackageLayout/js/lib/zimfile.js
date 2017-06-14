@@ -1,4 +1,4 @@
-/**
+﻿/**
  * zimfile.js: Low-level ZIM file reader.
  *
  * Copyright 2015 Mossroy and contributors

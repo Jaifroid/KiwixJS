@@ -13,4 +13,4 @@ C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Release\qualifiers.txt
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Release\qualifiers.txt.intermediate
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Release\MultipleQualifiersPerDimensionFound.txt
 C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bld\Release\ProjectArchitectures.txt
-C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Release\ReverseMap\resources.pri
+C:\Users\geoff\Source\Repos\KiwixJS\KiwixWebApp\bin\Release\resources.pri

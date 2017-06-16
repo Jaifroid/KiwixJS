@@ -6,6 +6,10 @@ It enables offline reading of a ZIM file downloaded from the Kiwix repository, i
 Wikipedia versions with or without images in many different languages. It has only been tested 
 on Wikipedia ZIM files to date.
 
+Please note that the version on this git-hub is a sandbox and can change drastically with no
+notice. Please visit https://github.com/kiwix/kiwix-html5-windows for the official development
+version.
+
 This is a simple port of the HTML5 web app provided on this git-hub repository. This port is
 primarily intended for Windows Mobile, but it will run as a UWP Store App on any Windows 10
 platform: x86, x64, ARM, on Mobile, tablets, Xbox, holographic and PC.

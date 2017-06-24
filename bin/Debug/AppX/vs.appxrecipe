@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\geoff\Source\Repos\KiwixJS\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-16T15:38:20.313</Modified>
+      <Modified>2017-06-19T14:06:35.210</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -296,15 +296,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\A\dummyArticle.html">
       <PackagePath>www\A\dummyArticle.html</PackagePath>
-      <Modified>2017-06-14T06:42:47.009</Modified>
+      <Modified>2017-06-18T15:17:14.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2017-06-15T07:08:40.081</Modified>
+      <Modified>2017-06-16T16:26:11.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\app.css">
       <PackagePath>www\css\app.css</PackagePath>
-      <Modified>2017-06-14T06:43:49.206</Modified>
+      <Modified>2017-06-16T16:22:53.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\bootstrap-theme.css">
       <PackagePath>www\css\bootstrap-theme.css</PackagePath>
@@ -314,9 +314,9 @@
       <PackagePath>www\css\bootstrap.css</PackagePath>
       <Modified>2017-06-16T15:35:46.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\default.css">
-      <PackagePath>www\css\default.css</PackagePath>
-      <Modified>2017-06-12T05:33:43.335</Modified>
+    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\wikipedia-mobile.css">
+      <PackagePath>www\css\wikipedia-mobile.css</PackagePath>
+      <Modified>2017-06-17T06:44:38.342</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\favicon.ico">
       <PackagePath>www\favicon.ico</PackagePath>
@@ -348,19 +348,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\app.js">
       <PackagePath>www\js\app.js</PackagePath>
-      <Modified>2017-06-14T07:26:16.935</Modified>
+      <Modified>2017-06-19T13:49:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\init.js">
       <PackagePath>www\js\init.js</PackagePath>
-      <Modified>2017-06-15T17:38:44.331</Modified>
+      <Modified>2017-06-18T15:22:06.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\abstractFilesystemAccess.js">
-      <PackagePath>www\js\lib\abstractFilesystemAccess.js</PackagePath>
-      <Modified>2017-06-14T06:33:08.719</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\bootstrap.js">
-      <PackagePath>www\js\lib\bootstrap.js</PackagePath>
-      <Modified>2017-06-16T15:34:24.305</Modified>
+    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\bootstrap.min.js">
+      <PackagePath>www\js\lib\bootstrap.min.js</PackagePath>
+      <Modified>2017-06-16T15:34:43.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\cookies.js">
       <PackagePath>www\js\lib\cookies.js</PackagePath>
@@ -376,7 +372,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\require.js">
       <PackagePath>www\js\lib\require.js</PackagePath>
-      <Modified>2017-06-14T06:36:01.643</Modified>
+      <Modified>2017-06-18T16:53:46.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\uiUtil.js">
       <PackagePath>www\js\lib\uiUtil.js</PackagePath>
@@ -392,11 +388,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\xzdec.js">
       <PackagePath>www\js\lib\xzdec.js</PackagePath>
-      <Modified>2017-06-14T06:38:06.395</Modified>
+      <Modified>2017-06-19T13:04:06.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\xzdec_wrapper.js">
       <PackagePath>www\js\lib\xzdec_wrapper.js</PackagePath>
-      <Modified>2017-06-14T06:39:09.115</Modified>
+      <Modified>2017-06-19T14:06:02.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\zimArchive.js">
       <PackagePath>www\js\lib\zimArchive.js</PackagePath>
@@ -417,7 +413,7 @@
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-16T15:30:14.602</Modified>
+      <Modified>2017-06-18T19:14:17.144</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

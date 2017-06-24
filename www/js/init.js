@@ -28,7 +28,8 @@ require.config({
         //'jquery': 'jquery-2.1.4',
         //'jquery': 'jquery-3.2.1',
         'jquery': 'jquery-3.2.1.slim', //GK testing
-        'bootstrap': 'bootstrap'
+        //'bootstrap': 'bootstrap'
+        'bootstrap': 'bootstrap.min' //GK testing
     },
     shim: {
         'jquery' : {

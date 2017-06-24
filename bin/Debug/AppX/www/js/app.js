@@ -26,8 +26,10 @@
 // This uses require.js to structure javascript:
 // http://requirejs.org/docs/api.html#define
 
-define(['jquery', 'zimArchiveLoader', 'util', 'uiUtil', 'cookies','abstractFilesystemAccess'],
- function($, zimArchiveLoader, util, uiUtil, cookies, abstractFilesystemAccess) {
+define(['jquery', 'zimArchiveLoader', 'util', 'uiUtil', 'cookies'], //GK disable FOS
+    //, 'abstractFilesystemAccess'],
+    function ($, zimArchiveLoader, util, uiUtil, cookies) { //GK disable FOS
+        //, abstractFilesystemAccess) {
      
     // Disable any eval() call in jQuery : it's disabled by CSP in any packaged application
     // It happens on some wiktionary archives, because there is some javascript inside the html article
@@ -876,7 +878,11 @@ define(['jquery', 'zimArchiveLoader', 'util', 'uiUtil', 'cookies','abstractFiles
                     var title = uiUtil.removeUrlParameters(decodeURIComponent(hrefMatch[1]));
                     selectedArchive.getDirEntryByTitle(title).then(function(dirEntry) {
                         selectedArchive.readBinaryFile(dirEntry, function (readableTitle, content) {
-                            var cssContent = util.uintToString(content);
+
+                            //link.attr("href", 'data:text/css;charset=UTF-8,' + encodeURIComponent(util.uintToString(content))); //GK-test
+                            uiUtil.feedNodeWithBlob(link, 'href', content, 'text/css'); //GK added for simpler css incorporation
+
+                            /*/ var cssContent = util.uintToString(content);
                             // For some reason, Firefox OS does not accept the syntax <link rel="stylesheet" href="data:text/css,...">
                             // So we replace the tag with a <style type="text/css">...</style>
                             // while copying some attributes of the original tag
@@ -897,7 +903,7 @@ define(['jquery', 'zimArchiveLoader', 'util', 'uiUtil', 'cookies','abstractFiles
                             if (disabledAttributeValue) {
                                 cssElement.disabled = disabledAttributeValue;
                             }
-                            link.replaceWith(cssElement);
+                            link.replaceWith(cssElement); *///Removed Firefox OS code which prevents CSS load in W10M - GK
                         });
                     }).fail(function (e) {
                         console.error("could not find DirEntry for CSS : " + title, e);

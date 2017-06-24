@@ -246,6 +246,9 @@
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\bootstrap.css">
       <PackagePath>www\css\bootstrap.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\css\wikipedia-mobile.css">
+      <PackagePath>www\css\wikipedia-mobile.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\favicon.ico">
       <PackagePath>www\favicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -273,11 +276,8 @@
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\init.js">
       <PackagePath>www\js\init.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\abstractFilesystemAccess.js">
-      <PackagePath>www\js\lib\abstractFilesystemAccess.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\bootstrap.js">
-      <PackagePath>www\js\lib\bootstrap.js</PackagePath>
+    <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\bootstrap.min.js">
+      <PackagePath>www\js\lib\bootstrap.min.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\geoff\Source\Repos\KiwixJS\www\js\lib\cookies.js">
       <PackagePath>www\js\lib\cookies.js</PackagePath>

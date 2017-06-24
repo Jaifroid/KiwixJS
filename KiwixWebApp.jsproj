@@ -43,7 +43,12 @@
     <ProjectGuid>a1a5e0b9-13d4-41fb-810d-518949f03df4</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <TypeScriptTarget>ES3</TypeScriptTarget>
+    <TypeScriptTarget>ES6</TypeScriptTarget>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <TypeScriptSourceMap>true</TypeScriptSourceMap>
+    <TypeScriptTarget>ES6</TypeScriptTarget>
+    <TypeScriptGeneratesDeclarations>true</TypeScriptGeneratesDeclarations>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0'">
@@ -121,6 +126,7 @@
     <Content Include="www\css\app.css" />
     <Content Include="www\css\bootstrap-theme.css" />
     <Content Include="www\css\bootstrap.css" />
+    <Content Include="www\css\wikipedia-mobile.css" />
     <Content Include="www\favicon.ico" />
     <Content Include="www\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="www\fonts\glyphicons-halflings-regular.svg" />
@@ -133,8 +139,7 @@
     <Content Include="www\index.html" />
     <Content Include="www\js\app.js" />
     <Content Include="www\js\init.js" />
-    <Content Include="www\js\lib\abstractFilesystemAccess.js" />
-    <Content Include="www\js\lib\bootstrap.js" />
+    <Content Include="www\js\lib\bootstrap.min.js" />
     <Content Include="www\js\lib\cookies.js" />
     <Content Include="www\js\lib\jquery-3.2.1.slim.js" />
     <Content Include="www\js\lib\q.js" />

@@ -41,7 +41,8 @@ define(['q'], function(q) {
      * @returns {Decompressor}
      */
     function Decompressor(reader, chunkSize) {
-        this._chunkSize = chunkSize || 1024 * 5;
+        //this._chunkSize = chunkSize || 1024 * 5; //GK test
+        this._chunkSize = 1024 * 25; //GK test
         this._reader = reader;
     };
     /**

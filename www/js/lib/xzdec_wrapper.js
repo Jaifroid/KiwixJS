@@ -42,6 +42,7 @@ define(['q'], function(q) {
      */
     function Decompressor(reader, chunkSize) {
         this._chunkSize = chunkSize || 1024 * 5;
+        //this._chunkSize = 1024 * 20; //GK test - this increases memory requirements so much that the xdec.js craps out
         this._reader = reader;
     };
     /**
